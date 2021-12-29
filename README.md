@@ -23,7 +23,7 @@ The example program turns on an led if you made the right hand gestures one afte
 ## Example 3
 This example shows how you can use the Whadda WPSE358 gesture recognition sensor module with an Arduino® compatible board.
 The example program presses the left and right arrow keys when you make certain hand gestures.
-
+__Important!!!: This example is really difficult because you need to flash the Arduino Uno with specific firmware.__
 ### Library dependencies
 * RevEng_PAJ7620
 
